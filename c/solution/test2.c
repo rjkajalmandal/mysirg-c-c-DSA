@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("Hello students");
+    printf("\'KAJAL MANDAL\'");
+
     return 0;
 }
